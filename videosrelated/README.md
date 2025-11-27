@@ -1,4 +1,4 @@
-# Video Scripts
+# Video Related
 
 Scripts and production notes for Sora 2, Grok Imagine, and other narrative video content.
 
