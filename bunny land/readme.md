@@ -8,3 +8,7 @@ non-canonical context. This project is not associated with Margaret Atwood or he
 Published: 2025
 Author: Absurdsenapiii
 License: CC-BY or All Rights Reserved
+
+
+Primary source:
+https://github.com/Absurdsenapiii/absurd-alignment-lab/tree/main/bunny-land
