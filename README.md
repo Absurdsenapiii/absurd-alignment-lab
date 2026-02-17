@@ -8,4 +8,4 @@ This repository hosts the public articles, longform research, and lore from the 
 - Video scripts for Sora 2 and Grok Imagine
 
 Everything here is curated for public distribution only.  
-Follow the journey: https://x.com/Absurdsenapiii
+Follow the journey: https://linktr.ee/alignment
