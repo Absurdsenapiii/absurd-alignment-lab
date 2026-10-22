@@ -32,7 +32,7 @@ BUNI was an earlier token experiment launched through Soar. Active development o
 - **Possible voluntary BUNI-related payments:** I may consider personally funded voluntary payments relating to BUNI. Any such payments would be subject to a separate decision, eligibility criteria and announcement. No payment programme has been established or guaranteed, and payments may not proceed.
 - **Company strike-off:** I intend to seek strike-off after the tenancy ends and outstanding matters have been addressed. This remains a future intention; this update does not confirm that an application has been filed or that strike-off has been completed.
 
-This clarification does not establish that BUNI/Soar contractual matters or other company obligations have been resolved.
+AbsurdSenapiii Labs Pte. Ltd. remains a registered legal entity unless and until its strike-off is formally completed. This clarification does not establish that BUNI/Soar contractual matters or other company obligations have been resolved.
 
 ## Current creative work
 
