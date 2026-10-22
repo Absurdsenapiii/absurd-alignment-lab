@@ -19,7 +19,7 @@ This is a change in creative focus. It does not document a corporate rename or a
 
 Earlier publications blurred the distinction between my personal holdings, the sole proprietorship and Labs. They should not have presented founder-held assets and speculative valuations as company assets.
 
-Figures such as **S$1.26 million** and **S$2.1 million** were historical estimates or valuation claims, not verified company asset balances or cash raised by Labs. **The proposed transfer of founder-held assets into Labs was not completed.** The company treasury described in those reports was therefore not established as presented.
+The historical **S$1.26 million** and **S$2.1 million** figures did not represent company-owned assets or funds raised by Labs. They reflected founder-held holdings, estimates and speculative valuations that were incorrectly attributed to the company. **The proposed transfer of founder-held assets into Labs was not completed.** The company treasury described in those reports was therefore not established as presented.
 
 Labs had no revenue. Revenue and profit figures attributed to Labs in earlier reports should not be relied upon as company financial statements. Anime-card sales were conducted through the sole proprietorship identified above.
 
